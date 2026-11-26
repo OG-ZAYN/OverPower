@@ -85,8 +85,8 @@ local E = identifyexecutor and identifyexecutor() or "Unknown_Universal_Exec"
 -- ========================================================================= --
 -- [NETWORK ROUTING: PROXY GATEWAY]
 -- ========================================================================= --
-local F = "https://daddyshome-d6f86-default-rtdb.asia-southeast1.firebasedatabase.app"
-local PROXY_URL = "https://script.google.com/macros/s/AKfycbzHfd2lPp32N0etjgKfQbJwrBpDnYFRPmxKul29r_pZO1GEGdGsZjwKEsL0zPaIDHQ9/exec"
+local F = "https://maybe-c8f31-ugswub-swnnkwn-wj-default-rtdb.asia-southeast1.firebasedatabase.app"
+local PROXY_URL = "https://script.google.com/macros/s/AKfycbw2ZxG88pipHkty5kvTWB7JwRT7v6hEEB3IJlBCSggYrC-F0orzBWXk02jKh2oIpHZy/exec"
 local PROXY_AUTH = "T9$xK2#pL8*mQ5^yV1%wC6)bN5_rP2&hF7(dJ4@kM3!zX9+vB0~gC1>lZ8<nS4"
 
 local function G(H, I, J)
